@@ -2,13 +2,11 @@
   <h1>¡Hola! 👋 Soy Juan Pablo</h1>
   <p><strong>Estudiante de Ingeniería en Tecnologías de la Información | 18 años | Aguascalientes, México</strong></p>
 
-  <p>
-    <a href="https://www.linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="up250297@alumnos.upa.edu.mx"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  </p>
-</div>
-
----
+  <p align="center">
+  <a href="https://www.instagram.com/angel_lopez0603/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%40angel__lopez0603-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ### 👨‍💻 Sobre mí
 
