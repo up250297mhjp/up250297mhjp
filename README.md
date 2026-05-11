@@ -20,7 +20,7 @@ Aprendiendo programación 🚀
 ## Tecnologías que estoy aprendiendo
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 </p>
 
 ---
