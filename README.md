@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Juan Pablo Muñoz Hernández</h1>
+<h1 align="center">Hola 👋, soy Juan Pablo (JP)</h1>
 
 <p align="center">
 Estudiante de Tecnologías de la Información e Innovacion Digital💻 <br>
