@@ -3,7 +3,7 @@
   <p><strong>Estudiante de Ingeniería en Tecnologías de la Información | 18 años | Aguascalientes, México</strong></p>
 
   <p align="center">
-  <a href="https://www.instagram.com/angel_lopez0603/" target="_blank">
+  <a href="https://www.instagram.com/_.justr0x._?igsh=cGl1YnZoMTZzcmNu" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%40angel__lopez0603-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
