@@ -4,7 +4,7 @@
 
   <p align="center">
   <a href="https://www.instagram.com/_.justr0x._?igsh=cGl1YnZoMTZzcmNu" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%40angel__lopez0603-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%40_.justr0x._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
