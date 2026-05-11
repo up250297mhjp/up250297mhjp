@@ -1,16 +1,16 @@
 <h1 align="center">Hola 👋, soy Juan Pablo Muñoz Hernández</h1>
 
 <p align="center">
-Estudiante de Tecnologías de la Información 💻 <br>
+Estudiante de Tecnologías de la Información e Innovacion Digital💻 <br>
 Fan de los videojuegos 🎮 <br>
-Aprendiendo programación constantemente 🚀
+Aprendiendo programación 🚀
 </p>
 
 ---
 
 ## Sobre mí
 
-- 📚 Actualmente curso la carrera de Tecnologías de la Información
+- 📚 Actualmente cursando la carrera de Tecnologías de la Información
 - 💻 Me gusta aprender sobre programación y tecnología
 - 🎮 Fan de Minecraft
 - 🚀 Siempre buscando mejorar mis habilidades
